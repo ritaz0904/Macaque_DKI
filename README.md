@@ -14,8 +14,7 @@ MRI data:
 
 &emsp;  The subfolder "MK" contains the mean kurtosis (MK) map fitted from the raw diffusion weighted images.
 
-&emsp;  Diffusion kurtosis fitting was conducted with the fitting software "DK_fitting" provided by the same author group and publicly available at 
-&emsp;  github.com/ritaz0904/DK_fitting.
+&emsp;  Diffusion kurtosis fitting was conducted with the fitting software "DK_fitting" provided by the same author group and publicly available at github.com/ritaz0904/DK_fitting.
 
 &emsp;  The "Diffusion_MRI" subfolder includes 5 files:
 
