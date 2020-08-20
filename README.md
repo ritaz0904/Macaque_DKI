@@ -8,21 +8,21 @@ The zipped data folder "Macaque_DKI" is split into two volumes, Macaque_DKI.7z.0
 
 MRI data:
 
-&emsp  The folder "Macaque_DKI" contains two subfolders, "Diffusion_MRI" and "MK".
+&emsp;  The folder "Macaque_DKI" contains two subfolders, "Diffusion_MRI" and "MK".
 
-&emsp  The subfolder "Diffusion_MRI" contains raw diffusion weighted images with two b-values 1500s/mm2 and 4500s/mm2 of an ex-vivo healthy macaque brain.
+&emsp;  The subfolder "Diffusion_MRI" contains raw diffusion weighted images with two b-values 1500s/mm2 and 4500s/mm2 of an ex-vivo healthy macaque brain.
 
-&emsp  The subfolder "MK" contains the mean kurtosis (MK) map fitted from the raw diffusion weighted images.
+&emsp;  The subfolder "MK" contains the mean kurtosis (MK) map fitted from the raw diffusion weighted images.
 
   Diffusion kurtosis fitting was conducted with the fitting software "DK_fitting" provided by the same author group and publicly available at github.com/ritaz0904/DK_fitting.
 
-&emsp  The "Diffusion_MRI" subfolder includes 5 files:
+&emsp;  The "Diffusion_MRI" subfolder includes 5 files:
 
             * b1500.hdr and b1500.img are the raw b=1500s/mm2 diffusion weighted image volumes in analyze format;
             * b4500.hdr and b4500.img are the raw b=4500s/mm2 diffusion weighted image volumes in analyze format;
             * gradient.txt is the gradient table used for each b-value.
 
-&emsp  The "MK" subfolder has 2 files:
+&emsp;  The "MK" subfolder has 2 files:
 
             * MK.hdr and MK.img are the fitted mean kurtosis map in analyze format.
 
