@@ -5,15 +5,15 @@ The dataset was generated for the manuscript entitled "Neuroanatomical underpinn
 
 The zipped data folder "Macaque_DKI" is split into two volumes, Macaque_DKI.7z.001 and Macaque_DKI.7z.002. Please download both volumes, click on the first downloaded volume, and unzip with 7-Zip. Both volumes will be unzipped into one folder “Macaque_DKI.”
 
-MRI data:
+MRI data:<br />
 
-  The folder "Macaque_DKI" contains two subfolders, "Diffusion_MRI" and "MK".
+  The folder "Macaque_DKI" contains two subfolders, "Diffusion_MRI" and "MK".<br />
 
-  The subfolder "Diffusion_MRI" contains raw diffusion weighted images with two b-values 1500s/mm2 and 4500s/mm2 of an ex-vivo healthy macaque brain.
+  The subfolder "Diffusion_MRI" contains raw diffusion weighted images with two b-values 1500s/mm2 and 4500s/mm2 of an ex-vivo healthy macaque brain.<br />
 
-  The subfolder "MK" contains the mean kurtosis (MK) map fitted from the raw diffusion weighted images.
+  The subfolder "MK" contains the mean kurtosis (MK) map fitted from the raw diffusion weighted images.<br />
 
-  Diffusion kurtosis fitting was conducted with the fitting software "DK_fitting" provided by the same author group and publicly available at github.com/ritaz0904/DK_fitting.
+  Diffusion kurtosis fitting was conducted with the fitting software "DK_fitting" provided by the same author group and publicly available at github.com/ritaz0904/DK_fitting.<br />
 
   The "Diffusion_MRI" subfolder includes 5 files:
 
