@@ -13,7 +13,7 @@ The zipped data folder "Macaque_DKI" is split into two volumes, Macaque_DKI.7z.0
 
 &nbsp; The subfolder "MK" contains the mean kurtosis (MK) map fitted from the raw diffusion weighted images.
 
-&nbsp; Diffusion kurtosis fitting was conducted with the fitting software "DK_fitting" provided by the same author group and publicly available at &nbsp; github.com/ritaz0904/DK_fitting.
+&nbsp; Diffusion kurtosis fitting was conducted with the fitting software "DK_fitting" provided by the same author group and publicly available at github.com/ritaz0904/DK_fitting.
 
 &nbsp; The "Diffusion_MRI" subfolder includes 5 files:
 
