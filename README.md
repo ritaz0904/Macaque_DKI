@@ -1,5 +1,4 @@
 # Macaque_DKI
-
 # Description of the data:
 
 The dataset was generated for the manuscript entitled "Neuroanatomical underpinning of diffusion kurtosis measurements in the cerebral cortex of healthy macaque brains" (https://www.biorxiv.org/content/10.1101/2020.07.25.221093v2.abstract) under revision in Magnetic Resonance in Medicine. This manuscipt should be cited appropriately for using the dataset.
