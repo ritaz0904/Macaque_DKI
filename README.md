@@ -29,3 +29,4 @@ The "MK" subfolder has 2 files:
 
             * Histology data from a different healthy macaque brain is publicly available at brainmaps.org under "Macaca Mulatta" with SMI-32 stain;
             * Histology data can be downloaded for comparsion with diffusion MRI mean kurtosis map.   
+ 
