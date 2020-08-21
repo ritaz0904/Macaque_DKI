@@ -1,0 +1,24 @@
+﻿Macaque_DKI
+
+The dataset contains multi-shell raw diffusion MRI data and fitted mean kurtosis(MK) map of an ex-vivo healthy macaque brain. This dataset was acquired by the group at Department of Radiology, Children’s Hospital of Philadelphia, Perelman School of Medicine, University of Pennsylvania, directed by Dr. Hao Huang (hao.huang@pennmedicine.upenn.edu).
+
+Dataset maintainer:Tianjia Zhu (tianjiazhu6@gmail.com)
+
+This dataset was used in the study "Neuroanatomical underpinning of diffusion kurtosis measurements in the cerebral cortex of healthy macaque brains" (in revision, Magnetic Resonance in Medicine) available at https://www.biorxiv.org/content/10.1101/2020.07.25.221093v2.abstract. This manuscipt should be cited appropriately for using the dataset.
+
+The license of the Macaque_DKI dataset is as follows:
+-------------------------------------------------------------------------------------------------------------------------
+Macaque_DKI dataset
+
+Copyright (C) Department of Radiology, Children's Hospital of Philadelphia, Perelman School of Medicine, University of Pennsylvania, PA, USA.
+
+All rights reserved.
+
+Web: https:www.brainmrimap.org
+
+Macaque_DKI is a free dataset. Permission to use, copy and distribute the dataset is granted, provided that this licence appears in all copies. Macaque_DKI dataset is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Macaque_DKI CAN NOT be used for commercial purposes. Macaque_DKI SHOULD NOT be used for medical purposes. The authors WILL NOT be responsible for using Macaque_DKI dataset in medical conditions.
+---------------------------------------------------------------------------------------------------------------------------
+
+The copyrights of this dataset are reserved by the original parties.
