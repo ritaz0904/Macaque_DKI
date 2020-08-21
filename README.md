@@ -1,12 +1,12 @@
 # Macaque_DKI
 
-Description of the data:
+# Description of the data:
 
 The dataset was generated for the manuscript entitled "Neuroanatomical underpinning of diffusion kurtosis measurements in the cerebral cortex of healthy macaque brains" (https://www.biorxiv.org/content/10.1101/2020.07.25.221093v2.abstract) under revision in Magnetic Resonance in Medicine. This manuscipt should be cited appropriately for using the dataset.
 
 The zipped data folder "Macaque_DKI" is split into two volumes, Macaque_DKI.7z.001 and Macaque_DKI.7z.002. Please download both volumes, click on the first downloaded volume, and unzip with 7-Zip. Both volumes will be unzipped into one folder “Macaque_DKI.”
 
-MRI data:
+# MRI data:
 
 &nbsp;  The folder "Macaque_DKI" contains two subfolders, "Diffusion_MRI" and "MK".
 
@@ -26,7 +26,7 @@ MRI data:
 
             * MK.hdr and MK.img are the fitted mean kurtosis map in analyze format.
 
-Histology data:
+# Histology data:
 
             * Histology data from a different healthy macaque brain is publicly available at brainmaps.org under "Macaca Mulatta" with SMI-32 stain;
             * Histology data can be downloaded for comparsion with diffusion MRI mean kurtosis map.   
