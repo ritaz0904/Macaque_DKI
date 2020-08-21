@@ -30,3 +30,4 @@ The zipped data folder "Macaque_DKI" is split into two volumes, Macaque_DKI.7z.0
             * Histology data from a different healthy macaque brain is publicly available at brainmaps.org under "Macaca Mulatta" with SMI-32 stain;
             * Histology data can be downloaded for comparsion with diffusion MRI mean kurtosis map.   
  
+ 
